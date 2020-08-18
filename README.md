@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-- 🔭 I’m currently working improving my skillet everyday.
+- 🔭 I’m currently working improving my skillset everyday.
 - 🌱 I’m currently learning COBOL
 - 💬 Ask me about Software Development
 - 📫 How to reach me: ikyriakidis
