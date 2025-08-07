@@ -5,4 +5,4 @@
 - 💬 Ask me about Software Development
 - 📫 How to reach me: ikyriakidis
 - ⚡ Fun fact: I enjoy travelling
-- 🏠 Living at [Chania](https://en.wikipedia.org/wiki/Chania)
+- 🏠 Living in [Greece](https://en.wikipedia.org/wiki/Greece)
